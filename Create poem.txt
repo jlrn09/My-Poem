@@ -8,6 +8,8 @@ Orange
 Blue
 Unicorn
 Red
+Yellow
+
 These are the colors of the rainbow.
 And the Unicorn.
 Pony
